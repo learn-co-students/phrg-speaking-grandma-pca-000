@@ -45,5 +45,8 @@ Which one can we use to check that the argument string (i.e. what you're saying 
 
 On that same note, we can also use the comparison operator to check and see if the string matches `"I LOVE YOU GRANDMA!"`
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-speaking-grandma/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-speaking-grandma/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Speak to Grandma</p>
